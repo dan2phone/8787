@@ -1,0 +1,1 @@
+{"numbers": [{"number": "00212522512766", "valid": true}, {"number": "666", "valid": true}, {"number": "900212522512766", "valid": true}, {"number": "*00212522512766", "valid": false}, {"number": "6666", "valid": true}], "creds": [{"username": "admin", "password": "CJHV_VoIP_0601"}]}
